@@ -12,7 +12,7 @@ The project GIT workflow contains five branches:
 
 LabVIEW 2013 is currently used development.
 
-Project is just started, so the most active branch is at the moment Preview.
+Project is in pre-alpha state, so the most active branch at the moment is MainDEv.
 
 Related documents and information
 =================================
