@@ -10,3 +10,7 @@ H.Brand@gsi.de
 
 D.Neidherr@gsi.de
 ==============
+
+karsten.opel@ife.no
+==============
+GIT exercise: Added my email address to this change log.
